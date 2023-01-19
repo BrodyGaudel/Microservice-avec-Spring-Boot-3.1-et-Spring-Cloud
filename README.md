@@ -3,11 +3,11 @@ with a microservice architecture :
 department management,
 employee management,
 mission management.
-----------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 Spring Cloud,
 Spring Boot 3.1 based on Jakarta EE 9, 
 Java 17 and Maven 3.8
----------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 to test project you must clone the project using git clone.
 then under each service you must run the following commands: mvn clean install.
 start each service in the order below with the command mvn spring-boot:run
@@ -20,3 +20,6 @@ start each service in the order below with the command mvn spring-boot:run
 
 example: to display the list of departments by sending a request to gateway 
 http://localhost:8181/EMPLOYEE-SERVICE/api/v1/employee/list 
+-----------------------------------------------------------------------------------------
+
+![image illustration](https://user-images.githubusercontent.com/57298219/213449413-ea2f7614-932b-4c84-97ae-064ff5ad1192.jpg)
