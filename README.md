@@ -1,3 +1,5 @@
+![image illustration](https://user-images.githubusercontent.com/57298219/213449413-ea2f7614-932b-4c84-97ae-064ff5ad1192.jpg)
+---------------------------------------------------------------------------------------
 Example of the development of an enterprise management application
 with a microservice architecture :
 department management,
@@ -22,4 +24,4 @@ example: to display the list of departments by sending a request to gateway
 http://localhost:8181/EMPLOYEE-SERVICE/api/v1/employee/list 
 -----------------------------------------------------------------------------------------
 
-![image illustration](https://user-images.githubusercontent.com/57298219/213449413-ea2f7614-932b-4c84-97ae-064ff5ad1192.jpg)
+
